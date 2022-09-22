@@ -1,2 +1,1 @@
-# Class-47-real
-c47
+# C37-SpeedRacer_ReferenceCode
